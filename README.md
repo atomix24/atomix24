@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @atomix24
-- 👀 I’m interested in ETHICAL HACKING
+- 👋 Hi, I’m @narain
+- 👀 I’m interested in 
 - 🌱 I’m currently learning from online
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me narain2442@gmail.com
